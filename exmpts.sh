@@ -1,0 +1,10 @@
+sbatch job.sh 29 30 0
+sbatch job.sh 29 30 100
+sbatch job.sh 29 30 1000
+sbatch job.sh 29 30 3000
+sbatch job.sh 29 30 10000
+sbatch job.sh 29 30 20000
+sbatch job.sh 29 30 50000
+sbatch job.sh 29 30 100000
+sbatch job.sh 29 30 200000
+sbatch job.sh 29 30 300000
